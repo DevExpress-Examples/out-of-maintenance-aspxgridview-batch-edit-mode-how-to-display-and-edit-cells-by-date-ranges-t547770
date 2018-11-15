@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/BatchEditDateRanges/Default.aspx) (VB: [Default.aspx](./VB/BatchEditDateRanges/Default.aspx))
+* [Default.aspx.cs](./CS/BatchEditDateRanges/Default.aspx.cs) (VB: [Default.aspx](./VB/BatchEditDateRanges/Default.aspx))
+* [EditRange.aspx](./CS/BatchEditDateRanges/EditRange.aspx) (VB: [EditRange.aspx.vb](./VB/BatchEditDateRanges/EditRange.aspx.vb))
+* **[EditRange.aspx.cs](./CS/BatchEditDateRanges/EditRange.aspx.cs) (VB: [EditRange.aspx.vb](./VB/BatchEditDateRanges/EditRange.aspx.vb))**
+* [Model.cs](./CS/BatchEditDateRanges/Model.cs) (VB: [Model.vb](./VB/BatchEditDateRanges/Model.vb))
+<!-- default file list end -->
 # ASPxGridView - Batch Edit mode - How to display and edit cells by date ranges
 
 
