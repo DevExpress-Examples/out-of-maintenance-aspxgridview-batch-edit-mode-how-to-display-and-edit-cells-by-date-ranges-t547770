@@ -2,8 +2,8 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/BatchEditDateRanges/Default.aspx) (VB: [Default.aspx](./VB/BatchEditDateRanges/Default.aspx))
-* [Default.aspx.cs](./CS/BatchEditDateRanges/Default.aspx.cs) (VB: [Default.aspx](./VB/BatchEditDateRanges/Default.aspx))
-* [EditRange.aspx](./CS/BatchEditDateRanges/EditRange.aspx) (VB: [EditRange.aspx.vb](./VB/BatchEditDateRanges/EditRange.aspx.vb))
+* [Default.aspx.cs](./CS/BatchEditDateRanges/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/BatchEditDateRanges/Default.aspx.vb))
+* [EditRange.aspx](./CS/BatchEditDateRanges/EditRange.aspx) (VB: [EditRange.aspx](./VB/BatchEditDateRanges/EditRange.aspx))
 * **[EditRange.aspx.cs](./CS/BatchEditDateRanges/EditRange.aspx.cs) (VB: [EditRange.aspx.vb](./VB/BatchEditDateRanges/EditRange.aspx.vb))**
 * [Model.cs](./CS/BatchEditDateRanges/Model.cs) (VB: [Model.vb](./VB/BatchEditDateRanges/Model.vb))
 <!-- default file list end -->
