@@ -1,1 +1,0 @@
-<%@ Application Codebehind="Global.asax.cs" Inherits="BatchEditDateRanges.Global_asax" Language="C#" %>
